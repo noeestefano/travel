@@ -1,0 +1,6 @@
+
+git init
+git add
+git commit -m "mi proyecto"
+git remote add origin https://github.com/noeestefano/travel.git
+git pust origin master 
